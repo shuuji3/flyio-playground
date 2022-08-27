@@ -1,0 +1,3 @@
+[submodule "go-example"]
+	path = go-example
+	url = https://github.com/fly-apps/go-example
